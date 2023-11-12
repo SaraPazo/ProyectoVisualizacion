@@ -1,0 +1,65 @@
+comunidad,Concepto_turistico,Genero,Rango_Edad,Año,Trimestre,Periodo,Total_Visitas
+Madrid,Viajes,Hombres,"['15', '29']",2021,4,2021T4,3.373.647
+Madrid,Viajes,Hombres,"['15', '29']",2021,3,2021T3,4.861.730
+Madrid,Viajes,Hombres,"['15', '29']",2021,2,2021T2,3.486.169
+Madrid,Viajes,Hombres,"['15', '29']",2021,1,2021T1,2.062.549
+Madrid,Viajes,Hombres,"['15', '29']",2020,4,2020T4,1.839.043
+Madrid,Viajes,Hombres,"['15', '29']",2020,3,2020T3,4.174.719
+Madrid,Viajes,Hombres,"['15', '29']",2020,2,2020T2,1.044.759
+Madrid,Viajes,Hombres,"['15', '29']",2020,1,2020T1,2.623.687
+Madrid,Viajes,Hombres,"['30', '44']",2021,4,2021T4,4.640.552
+Madrid,Viajes,Hombres,"['30', '44']",2021,3,2021T3,6.763.694
+Madrid,Viajes,Hombres,"['30', '44']",2021,2,2021T2,4.343.509
+Madrid,Viajes,Hombres,"['30', '44']",2021,1,2021T1,1.788.944
+Madrid,Viajes,Hombres,"['30', '44']",2020,4,2020T4,2.196.992
+Madrid,Viajes,Hombres,"['30', '44']",2020,3,2020T3,5.769.812
+Madrid,Viajes,Hombres,"['30', '44']",2020,2,2020T2,1.018.538
+Madrid,Viajes,Hombres,"['30', '44']",2020,1,2020T1,3.679.908
+Madrid,Viajes,Hombres,"['45', '64']",2021,4,2021T4,6.625.336
+Madrid,Viajes,Hombres,"['45', '64']",2021,3,2021T3,8.960.468
+Madrid,Viajes,Hombres,"['45', '64']",2021,2,2021T2,5.583.992
+Madrid,Viajes,Hombres,"['45', '64']",2021,1,2021T1,2.909.808
+Madrid,Viajes,Hombres,"['45', '64']",2020,4,2020T4,3.230.778
+Madrid,Viajes,Hombres,"['45', '64']",2020,3,2020T3,6.796.072
+Madrid,Viajes,Hombres,"['45', '64']",2020,2,2020T2,1.475.377
+Madrid,Viajes,Hombres,"['45', '64']",2020,1,2020T1,4.677.096
+Madrid,Viajes,Hombres,['65'],2021,4,2021T4,2.406.413
+Madrid,Viajes,Hombres,['65'],2021,3,2021T3,2.942.670
+Madrid,Viajes,Hombres,['65'],2021,2,2021T2,1.543.979
+Madrid,Viajes,Hombres,['65'],2021,1,2021T1,653.937
+Madrid,Viajes,Hombres,['65'],2020,4,2020T4,876.303
+Madrid,Viajes,Hombres,['65'],2020,3,2020T3,2.015.588
+Madrid,Viajes,Hombres,['65'],2020,2,2020T2,478.096
+Madrid,Viajes,Hombres,['65'],2020,1,2020T1,1.708.417
+Madrid,Viajes,Mujeres,"['15', '29']",2021,4,2021T4,2.749.056
+Madrid,Viajes,Mujeres,"['15', '29']",2021,3,2021T3,5.662.017
+Madrid,Viajes,Mujeres,"['15', '29']",2021,2,2021T2,3.577.864
+Madrid,Viajes,Mujeres,"['15', '29']",2021,1,2021T1,2.017.838
+Madrid,Viajes,Mujeres,"['15', '29']",2020,4,2020T4,1.712.740
+Madrid,Viajes,Mujeres,"['15', '29']",2020,3,2020T3,5.128.166
+Madrid,Viajes,Mujeres,"['15', '29']",2020,2,2020T2,835.065
+Madrid,Viajes,Mujeres,"['15', '29']",2020,1,2020T1,2.957.382
+Madrid,Viajes,Mujeres,"['30', '44']",2021,4,2021T4,4.110.821
+Madrid,Viajes,Mujeres,"['30', '44']",2021,3,2021T3,6.816.200
+Madrid,Viajes,Mujeres,"['30', '44']",2021,2,2021T2,3.858.403
+Madrid,Viajes,Mujeres,"['30', '44']",2021,1,2021T1,1.365.402
+Madrid,Viajes,Mujeres,"['30', '44']",2020,4,2020T4,1.737.396
+Madrid,Viajes,Mujeres,"['30', '44']",2020,3,2020T3,5.409.829
+Madrid,Viajes,Mujeres,"['30', '44']",2020,2,2020T2,1.043.905
+Madrid,Viajes,Mujeres,"['30', '44']",2020,1,2020T1,3.338.973
+Madrid,Viajes,Mujeres,"['45', '64']",2021,4,2021T4,5.591.934
+Madrid,Viajes,Mujeres,"['45', '64']",2021,3,2021T3,8.462.951
+Madrid,Viajes,Mujeres,"['45', '64']",2021,2,2021T2,4.786.021
+Madrid,Viajes,Mujeres,"['45', '64']",2021,1,2021T1,2.098.307
+Madrid,Viajes,Mujeres,"['45', '64']",2020,4,2020T4,2.533.364
+Madrid,Viajes,Mujeres,"['45', '64']",2020,3,2020T3,6.734.639
+Madrid,Viajes,Mujeres,"['45', '64']",2020,2,2020T2,1.184.114
+Madrid,Viajes,Mujeres,"['45', '64']",2020,1,2020T1,4.135.467
+Madrid,Viajes,Mujeres,['65'],2021,4,2021T4,1.999.339
+Madrid,Viajes,Mujeres,['65'],2021,3,2021T3,2.702.915
+Madrid,Viajes,Mujeres,['65'],2021,2,2021T2,1.960.441
+Madrid,Viajes,Mujeres,['65'],2021,1,2021T1,644.185
+Madrid,Viajes,Mujeres,['65'],2020,4,2020T4,873.067
+Madrid,Viajes,Mujeres,['65'],2020,3,2020T3,1.981.051
+Madrid,Viajes,Mujeres,['65'],2020,2,2020T2,470.588
+Madrid,Viajes,Mujeres,['65'],2020,1,2020T1,1.709.450
