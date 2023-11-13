@@ -126,7 +126,7 @@ Tengo creados 2 dashboards en Tableau.
 
 **1. ESTILO** es el primero de ellos. 
 
-![Imagen1]( 
+![Imagen1](https://github.com/SaraPazo/ProyectoVisualizacion/blob/main/Imagen/estilo.png) 
 
 Este contiene las tres primeras hojas que combinan el estilo musical con:  precios, turismo por trimestres, y calendario anual según eventos disponibles de cada estilo.
 
@@ -141,7 +141,7 @@ Según tu selección, ¡tendrás a tu disposición los eventos disponibles en el
 
 **2. ENTRADAS.COM** es el segundo DASHBOARD.
 
-![Imagen2]()
+![Imagen2](https://github.com/SaraPazo/ProyectoVisualizacion/blob/main/Imagen/dash_entradas.png)
 
 En este se encuentran las tres últimas hojas previamente explicadas. 
 
@@ -151,6 +151,8 @@ En este caso el filtro se encuentra en el gráfico arriba a la izquierda, que mu
 
 De esta forma, se encuentra fácilmente el evento que mejor coincida con la fecha deseada, y el link a la página de venta de sus entradas, en la ubicación deseada.
 
+
+**¡DISFRUTA DE TU EVENTO FAVORITO!**
 
 
 
