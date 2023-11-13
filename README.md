@@ -126,7 +126,7 @@ Tengo creados 2 dashboards en Tableau.
 
 **1. ESTILO** es el primero de ellos. 
 
-![Imagen1]()
+![Imagen1]( 
 
 Este contiene las tres primeras hojas que combinan el estilo musical con:  precios, turismo por trimestres, y calendario anual según eventos disponibles de cada estilo.
 
