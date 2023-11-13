@@ -12,7 +12,7 @@
 
 
 ### 1. Objetivo
-El objetivo de este proyecto es hacer una visualización aprovechando el conjunto de datos generado en el Proyecto ETL: https://github.com/SaraPazo/ProyectoETL, utilizando Tableau.
+El objetivo de este proyecto es hacer una visualización aprovechando el conjunto de datos generado en el [Proyecto ETL](https://github.com/SaraPazo/ProyectoETL), utilizando Tableau.
 
 El objetivo es producir paneles interactivos que contengan información relacionada con el turismo o viajes que se realizan a la cuidad de Madrid, y los eventos (conciertos y festivales en este caso) que se llevan a cabo. 
 
@@ -80,7 +80,7 @@ LINK a la presentación: [Eventos disponibles en entradas.com](https://public.ta
 
 Este está completo por 6 hojas creadas a partir de los datos recogidos y ya mencionados. Con las anteriores se han generado 2 Dashboards interactivos con los que puedes jugar para **¡ENCONTRAR TU EVENTO PERFECTO!**
 
-#### a. Comenzar por una breve explicación de las hojas:
+### a. Comenzar por una breve explicación de las hojas:
 
 - HOJA 1: **Precios de Evento por Estilo**
     - Los colores hacen referencia al estilo de música.
@@ -120,11 +120,11 @@ Este está completo por 6 hojas creadas a partir de los datos recogidos y ya men
     - Muestra en este caso la única ciudad de la que se han recogido datos, con el fin de continuar con el scraping ampliando fronteras a las demás ciudades donde entradas.com tiene venta de sus productos.
 
 
-#### b. Continuar por la explicación de los DASHBOARDS:
+### b. Continuar por la explicación de los DASHBOARDS:
 
 Tengo creados 2 dashboards en Tableau. 
 
-**1. ESTILO** es el primero de ellos. 
+#### **1. ESTILO** es el primero de ellos. 
 
 ![Imagen1](https://github.com/SaraPazo/ProyectoVisualizacion/blob/main/Imagen/estilo.png) 
 
@@ -139,7 +139,7 @@ Se filtra el Dashboard por la hoja de **Turismo por Estilo Musical**.
 Según tu selección, ¡tendrás a tu disposición los eventos disponibles en el mes que sabes o tienes interés en visitar Madrid!
 
 
-**2. ENTRADAS.COM** es el segundo DASHBOARD.
+#### **2. ENTRADAS.COM** es el segundo DASHBOARD.
 
 ![Imagen2](https://github.com/SaraPazo/ProyectoVisualizacion/blob/main/Imagen/dash_entradas.png)
 
