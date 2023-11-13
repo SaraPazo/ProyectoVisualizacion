@@ -1,4 +1,57 @@
-# ProyectoVisualizacion
+# Proyecto Visualización - EVENTOS MUSICALES 
 
-#### Indice
+![Imagen](https://github.com/SaraPazo/ProyectoVisualizacion/blob/main/Imagen/bruce.png)
+
+### INDICE
+1. Objetivo
+2. Fuentes de extracción
+3. Contenido
+4. Limpieza de datos
+5. Creación del Tableau
+
+
+
+### 1. Objetivo
+El objetivo de este proyecto es hacer una visualización aprovechando el conjunto de datos generado en el Proyecto ETL: https://github.com/SaraPazo/ProyectoETL, utilizando Tableau.
+
+El objetivo es producir paneles interactivos que contengan información relacionada con el turismo o viajes que se realizan a la cuidad de Madrid, y los eventos (conciertos y festivales en este caso) que se llevan a cabo. 
+
+Se observan las tendencias en cuanto a los estilos musicales y la temporalidad de los eventos. Además, observar si tienen algún tipo de relación las visitas a la ciudad con que haya conciertos en esas fechas.
+
+
+
+### 2. Fuentes de extracción
+
+Capturamos del trabajo de ETL previo varios conjuntos de datos. 
+
+a. En base al objetivo de estudio, continuo con la página web de entradas.com, web de venta de entradas a eventos, conciertos, musicales, exposiciones, y otros. 
+
+Teníamos una extracción de datos previa en el trabajo de ETL, sin embargo, llevo a cabo una nueva selección a través de scraping utilizando el método de *selenium*, con la que creo un nuevo dataframe (events_estilo).
+
+URL: https://www.entradas.com/citymadrid-370conciertos-y-festivales-85/
+
+- Y de aquí voy seleccionando cada uno de los estilos de música con sus eventos correspondientes. 
+
+
+b. Tenía previamente información sobre la ocupación turística en la Comunidad de Madrid, a través de la página del INE, los la importación de datos y su limpieza para elaborar un archivo .csv. 
+
+- Esta nos aportará información sobre los viajeros y pernoctantes, según fecha, y según sean residentes en España o residentes en el Extranjero.
+    URL: https://www.ine.es/jaxiT3/Datos.htm?t=2074
+
+c. Nuevamente, busco ampliar mis datos en cuanto al turismo en la Comunidad de Madrid. Un nuevo archivo .csv es creado a través de la búsqueda y limpieza de datos recogidos del INE. Este nos mostrará el género, edad, año y trimestre en el que es realizado el viaje. De estos datos sacaremos por tanto información de la época del año en la que hay más turistas, como dato principal. 
+
+- Un nuevo archivo .csv es creado a través de la búsqueda y limpieza de datos recogidos del INE: 
+    
+    URL:https://www.ine.es/jaxiT3/Tabla.htm?t=12441&L=0 
+
+
+### 3. Contenido
+
+**Carpeta Data**: esta carpeta incluye datos sucios en [Draft_data](Draft_data) que posteriormente he tenido que revisar y limpiar, por lo que los datos utilizados definitivamente se encuentran en [Clean_data](Clean_data), preparados para ser utilizados para la presentación posterior.
+
+**[Imagenes](Imagen)**: esta carpeta contiene las imágenes que se utilizan en la creación de Tableau y el Readme.
+
+**[Cuadernos](Notebooks)**: Cuadernos de Jupyter creados específicamente para este proyecto, ya que me ofrecen información que me parece de interés para su presentación en Tableau. 
+
+**Tableau Dashboard** con link disponible: [Eventos disponibles en entradas.com](https://public.tableau.com/app/profile/sara.pazo/viz/eventim/estilo)
 
